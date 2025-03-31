@@ -87,7 +87,7 @@ B.Tech in Information Technology | Tiruchengode, Tamil Nadu | GPA: 8.92
 <br>
 
 ### Activity Graph
-[![Varsini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VarsiniMarimuthu&bg_color=100f0f&color=ffffff&line=29ff5e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Keerthana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KeerthanaK-2005&bg_color=100f0f&color=ffffff&line=29ff5e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
