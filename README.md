@@ -87,21 +87,21 @@ B.Tech in Information Technology | Tiruchengode, Tamil Nadu | GPA: 8.92
 <br>
 
 ### Activity Graph
-(https://leetcard.jacoblin.cool/_Keerthana_Karthikeyan_?theme=dark&font=PT%20Serif%20Caption&ext=heatmap))
+[![Varsini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VarsiniMarimuthu&bg_color=100f0f&color=ffffff&line=29ff5e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
 
 ### LeetCode Stats
-(https://leetcard.jacoblin.cool/_Keerthana_Karthikeyan_?theme=dark&font=PT%20Serif%20Caption&ext=heatmap))
+![Keerthana LeetCode Stats](https://leetcard.jacoblin.cool/_Keerthana_Karthikeyan_?theme=dark&font=PT%20Serif%20Caption&ext=heatmap))
 
 ### Github Stats
-(https://github-readme-stats.vercel.app/api?username=KeerthanaK-2005&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![Keerthana Stats](https://github-readme-stats.vercel.app/api?username=KeerthanaK-2005&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 
 ### Languages used
-(https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthanaK-2005&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+![Keerthana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthanaK-2005&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
