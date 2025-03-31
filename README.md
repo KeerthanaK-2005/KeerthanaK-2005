@@ -94,10 +94,10 @@ B.Tech in Information Technology | Tiruchengode, Tamil Nadu | GPA: 8.92
 <br>
 
 ### LeetCode Stats
-![Varsini's LeetCode Stats](https://leetcard.jacoblin.cool/Varsini_M?theme=dark&font=Marcellus&ext=heatmap)
+![Varsini's LeetCode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/_Keerthana_Karthikeyan_?theme=dark&font=PT%20Serif%20Caption&ext=heatmap))
 
 ### Github Stats
-![VarsiniMarimuthu's Stats](https://github-readme-stats.vercel.app/api?username=VarsiniMarimuthu&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![VarsiniMarimuthu's Stats](https://github-readme-stats.vercel.app/api?username=KeerthanaK-2005&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 
 ### Languages used
 ![VarsiniMarimuthu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarsiniMarimuthu&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
