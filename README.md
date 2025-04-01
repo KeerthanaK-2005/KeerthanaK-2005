@@ -43,8 +43,8 @@ interaction across devices, enhancing user productivity.
 
 ## 🎓 Education
 
-*KSR College of Technology*  
-B.Tech in Information Technology | Tiruchengode, Tamil Nadu | GPA: 8.92  
+*KSR College of Engineering*  
+B.E in Computer Science and Engineering | Tiruchengode, Tamil Nadu | GPA: 8.3  
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
